@@ -1,0 +1,70 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.mission-color{
+    color: deeppink;
+}
+.explore-button {
+    background-color: deeppink;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 10px;
+    font-weight: 500;
+    color: white;
+  }
+.top-container{
+      display: flex;
+  }
+  .two-width {
+    width: 50%;
+    padding: 2%;
+  } 
+ .two-width img{
+     width: 100%;
+ } 
+.p-padding{
+    padding-bottom: 30px;
+}
+.t-padding{
+    padding-top: 20px;
+}
+.text-center{
+    text-align: center;
+}
+.mission-area{
+    display: flex;
+    text-align: center;
+}
+.mission-image{
+    width: 100%;
+}
+.mission-div{
+    background-color: aqua;
+    float: left;
+    width: 700px;
+    margin-left: 3%;
+    padding-left: 2%;
+    border-radius: 5px;
+}
+.vission-div{
+    background-color:rgb(73, 226, 43);
+   
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    border-radius: 5px;
+}
+.goal-div{
+    background-color: blanchedalmond;
+    
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    border-radius: 5px;
+}
+.three-box{
+    width: 40%;
+    float: left;
+    float: left;
+    padding-left:28% ;
+}
