@@ -34,6 +34,8 @@ body{
 .mission-area{
     display: flex;
     text-align: center;
+    margin-bottom: 150px;
+    height: 400px;
 }
 .mission-image{
     width: 100%;
@@ -48,7 +50,6 @@ body{
 }
 .vission-div{
     background-color:rgb(73, 226, 43);
-   
     float: left;
     margin-left: 3%;
     padding-left: 2%;
@@ -56,15 +57,40 @@ body{
 }
 .goal-div{
     background-color: blanchedalmond;
-    
     float: left;
     margin-left: 3%;
     padding-left: 2%;
     border-radius: 5px;
 }
 .three-box{
-    width: 40%;
+    width: 50%;
     float: left;
     float: left;
     padding-left:28% ;
+}
+.coding{
+    width: 40%;
+}
+.read-doc{
+    width: 100%;
+    padding: 2%;
+}
+.read-doc img{
+    width: 60%;
+}
+.dev-con{
+    margin-bottom: 150px;
+    height: 80%;
+    width: 100%;
+    display: flex;
+}
+#left-margin{
+    padding-left: 2px;
+    border-left: 5px solid;
+  border-image: linear-gradient(deeppink,pink);
+  border-image-slice: 1;
+}
+.bg-color{
+    background-color: deeppink;
+    color:white;
 }
